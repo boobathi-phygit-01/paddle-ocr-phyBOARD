@@ -35,7 +35,7 @@ detected text regions, because each region is cropped and recognized one by one.
 | RAM | 1.89 GB usable |
 | Camera | Dell 2K webcam (V4L2, MJPG) |
 | OS image | PHYTEC BSP-Yocto-CelebrityFaceMatch-i.MX8MP-v0.7 ([release notes](https://download.phytec.de/Software/Linux/BSP-Yocto-CelebrityFaceMatch/BSP-Yocto-CelebrityFaceMatch-i.MX8MP-v0.7/ReleaseNotes)) |
-| Runtime | TFLite (`tflite_runtime` or `ai_edge_litert`) + VX delegate (`/usr/lib/libvx_delegate.so`) |
+| Runtime | TFLite (`tflite_runtime` ) + VX delegate (`/usr/lib/libvx_delegate.so`) |
 
 ## Models
 
